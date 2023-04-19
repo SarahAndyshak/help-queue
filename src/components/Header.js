@@ -7,7 +7,7 @@ function Header(){
     <React.Fragment>
       <h1>Help Queue</h1>
       {/* <img src={ticketsImage} alt="An image of tickets" /> */}
-      <img src={ticketsImage2} alt="An image of tickets" />
+      <img src={ticketsImage2} alt="Two tickets" />
     </React.Fragment>
   );
 }
