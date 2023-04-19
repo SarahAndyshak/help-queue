@@ -90,7 +90,6 @@ render(){
       </React.Fragment>
     );
   }
-
 }
 
 export default TicketControl;
